@@ -115,5 +115,3 @@ This repository tracks my weekly progress, projects, and skills as I grow from l
 
 ---
 
-## 🧱 Repository Structure
-
