@@ -2,3 +2,12 @@
 p strong {
   color: rgb(170, 96, 83);
 }
+
+ol {
+  list-style: none;
+}
+
+li {
+  list-style: square;
+  list-style: none;
+}
